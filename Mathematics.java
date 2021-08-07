@@ -12,7 +12,7 @@ public class Mathematics {
         Scanner scanner=new Scanner(System.in);
         number=scanner.nextInt();
         int result1=factorial.factorail1(number);
-        System.out.println(result1);
+        System.out.println("Factorial of a number:"+result1);
 	}
 
 }
